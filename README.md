@@ -57,7 +57,7 @@ The Power BI dashboard provides the following insights:
 
 * Operational_Risk_Loss_Impact_Analytics.xlsx – Dataset used for analysis
 * Dashboard project.pbix – Power BI dashboard file
-* Dashboard Screenshot – Visual representation of the final dashboard
+  
 
 ## Outcome
 
